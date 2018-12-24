@@ -1,0 +1,23 @@
+cisco-global-exploiter (13-1kali3) kali; urgency=low
+
+  * Removed desktop files
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 14 Dec 2012 20:07:50 -0500
+
+cisco-global-exploiter (13-1kali2) kali; urgency=low
+
+  * Updated desktop file
+
+ -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 08:49:42 -0500
+
+cisco-global-exploiter (13-1kali1) kali; urgency=low
+
+  * Kali Version
+
+ -- dookie <dookie@kali.org>  Wed, 07 Nov 2012 10:58:56 -0700
+
+cisco-global-exploiter (13-1) kali; urgency=low
+
+  * Initial release 
+
+ -- dookie <dookie@kali.org>  Wed, 07 Nov 2012 10:44:53 -0700

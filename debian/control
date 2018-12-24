@@ -1,0 +1,16 @@
+Source: cisco-global-exploiter
+Section: net
+Priority: extra
+Maintainer: dookie <dookie@kali.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.blackangels.it
+Vcs-Git: ssh://git@git.kali.org/packages/cisco-global-exploiter.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/cisco-global-exploiter.git;a=summary
+
+Package: cisco-global-exploiter
+Architecture: all
+Depends: ${misc:Depends}, perl
+Description: Simple and fast Cisco exploitation tool
+ Cisco Global Exploiter (CGE), is an advanced, simple 
+ and fast security testing tool.
